@@ -1,0 +1,26 @@
+
+<image class="banner" src="/images/about.jpg"></image>
+
+<view class='block'>
+  <view class='block-title'>关于我们</view>
+  <text class='block-desc'>挨打的份adfadf,挨打的份adfadf,挨打的份adfadf,挨打的份adfadf,挨打的份adfadf</text>
+</view>
+
+<view class='block'>
+  <view class='block-title'>关于我们</view>
+  <text class='block-desc'>挨打的份adfadf,挨打的份adfadf,挨打的份adfadf,挨打的份adfadf,挨打的份adfadf</text>
+</view>
+
+<view class='block'>
+  <view class='block-title'>关于我们</view>
+  <text class='block-desc'>挨打的份adfadf,挨打的份adfadf,挨打的份adfadf,挨打的份adfadf,挨打的份adfadf</text>
+</view>
+
+<view class='block'>
+  <view class='block-title'>关于我们</view>
+  <text class='block-desc'>挨打的份adfadf,挨打的份adfadf,挨打的份adfadf,挨打的份adfadf,挨打的份adfadf</text>
+</view>
+
+<view class='footer'>
+<button bindtap='tell'>打电话</button>
+</view>
